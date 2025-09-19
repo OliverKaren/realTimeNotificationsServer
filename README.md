@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Realtime Notifications Exam
 
 ## Project Structure
