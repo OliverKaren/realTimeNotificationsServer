@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Realtime Notifications Exam
 
 ## Project Structure
@@ -50,6 +51,3 @@ Invoke-RestMethod -Uri http://localhost:3001/notify -Method POST -ContentType "a
 ### Frontend:
 Open http://localhost:5173
 → live feed shows backlog and new notifications immediately
-=======
-# realTimeNotificationsServer
->>>>>>> fb160c1e4e4042a78d2ca71bbb19327af257fecf
